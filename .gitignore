@@ -7,5 +7,5 @@ html/assets/avatars
 html/thumbs/*
 site/cache
 .env
-.htaccess
+/.htaccess
 composer.phar
