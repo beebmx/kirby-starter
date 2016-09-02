@@ -2,7 +2,7 @@
 
 ```sh
 $ git clone --recursive git@github.com:beebmx/kirby-starter.git
-$ cd kirby-plain-mt
+$ cd kirby-starter
 $ mkdir html/thumbs site/accounts html/assets/avatars
 $ chmod 777 html/thumbs site/accounts html/assets/avatars
 $ chmod -R 777 html/content
