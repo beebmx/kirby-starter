@@ -1,0 +1,11 @@
+.DS_Store
+vendor
+bower_components
+**/.sass-cache
+/site/accounts
+html/assets/avatars
+html/thumbs/*
+site/cache
+.env
+.htaccess
+composer.phar

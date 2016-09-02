@@ -1,0 +1,9 @@
+[submodule "html/kirby"]
+	path = html/kirby
+	url = https://github.com/getkirby/kirby.git
+[submodule "html/panel"]
+	path = html/panel
+	url = https://github.com/getkirby/panel.git
+[submodule "site/fields/markdown"]
+	path = site/fields/markdown
+	url = https://github.com/JonasDoebertin/kirby-visual-markdown.git
