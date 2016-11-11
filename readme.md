@@ -11,6 +11,7 @@ $ composer install
 $ composer clear-cache
 ```
 `chmod 777` permissions are only for development. Don't use in production.
+
 In the `.env` file you should put the `KIRBY_LICENSE`
 
 ###If is installed on MediaTemple
