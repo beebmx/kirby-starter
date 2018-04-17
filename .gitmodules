@@ -10,3 +10,6 @@
 [submodule "site/plugins/icons"]
 	path = site/plugins/icons
 	url = https://github.com/ThiesHagedorn/KirbyIconPlugin.git
+[submodule "site/plugins/blade"]
+	path = site/plugins/blade
+	url = https://github.com/pedroborges/kirby-blade-template.git
