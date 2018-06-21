@@ -7,6 +7,6 @@ c::set('debug', env('KIRBY_DEBUG', false));
 
 c::set('blade.directives', [
     'kirbytext' => function ($text) {
-        return "<?php echo kirbytext($text) ?>";
+        return "<?= kirbytext($text) ?>";
     }
 ]);
